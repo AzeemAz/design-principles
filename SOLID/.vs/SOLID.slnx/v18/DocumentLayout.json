@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|c:\\azeem\u0027s workflow\\.net\\design-principles\\solid\\solid\\substitution-principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|solutionrelative:solid\\substitution-principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|c:\\azeem\u0027s workflow\\.net\\design-principles\\solid\\solid\\open-closed-principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|solutionrelative:solid\\open-closed-principle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|c:\\azeem\u0027s workflow\\.net\\design-principles\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598DA5A6-83FA-66D0-7A6D-52221C3DE969}|SOLID\\SOLID.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Substitution-Principle.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Substitution-Principle.cs",
+              "RelativeDocumentMoniker": "SOLID\\Substitution-Principle.cs",
+              "ToolTip": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Substitution-Principle.cs",
+              "RelativeToolTip": "SOLID\\Substitution-Principle.cs",
+              "ViewState": "AgIAABEAAACAMzMzMzMLwBMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:52:16.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Open-Closed-Principle.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Open-Closed-Principle.cs",
+              "RelativeDocumentMoniker": "SOLID\\Open-Closed-Principle.cs",
+              "ToolTip": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Open-Closed-Principle.cs",
+              "RelativeToolTip": "SOLID\\Open-Closed-Principle.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAIQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:12:01.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "SOLID\\Program.cs",
+              "ToolTip": "C:\\azeem\u0027s workflow\\.net\\design-principles\\SOLID\\SOLID\\Program.cs",
+              "RelativeToolTip": "SOLID\\Program.cs",
+              "ViewState": "AgIAACgAAACAZ2ZmZmYcwDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T08:40:22.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
