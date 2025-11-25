@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\azeem's workflow\\.net\\design-principles\\SOLID\\SOLID\\SOLID.csproj",
+      "projectUniqueName": "C:\\azeem's workflow\\design-principles\\SOLID\\SOLID\\SOLID.csproj",
       "projectName": "SOLID",
-      "projectPath": "C:\\azeem's workflow\\.net\\design-principles\\SOLID\\SOLID\\SOLID.csproj",
+      "projectPath": "C:\\azeem's workflow\\design-principles\\SOLID\\SOLID\\SOLID.csproj",
       "packagesPath": "C:\\Users\\Azeem\\.nuget\\packages\\",
-      "outputPath": "C:\\azeem's workflow\\.net\\design-principles\\SOLID\\SOLID\\obj\\",
+      "outputPath": "C:\\azeem's workflow\\design-principles\\SOLID\\SOLID\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
