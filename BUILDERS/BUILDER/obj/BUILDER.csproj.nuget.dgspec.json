@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\azeem's workflow\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj": {}
+    "C:\\azeem's workspace\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj": {}
   },
   "projects": {
-    "C:\\azeem's workflow\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj": {
+    "C:\\azeem's workspace\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\azeem's workflow\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj",
+        "projectUniqueName": "C:\\azeem's workspace\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj",
         "projectName": "BUILDER",
-        "projectPath": "C:\\azeem's workflow\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj",
-        "packagesPath": "C:\\Users\\Azeem\\.nuget\\packages\\",
-        "outputPath": "C:\\azeem's workflow\\design-principles\\BUILDERS\\BUILDER\\obj\\",
+        "projectPath": "C:\\azeem's workspace\\design-principles\\BUILDERS\\BUILDER\\BUILDER.csproj",
+        "packagesPath": "C:\\Users\\- Azeem\\.nuget\\packages\\",
+        "outputPath": "C:\\azeem's workspace\\design-principles\\BUILDERS\\BUILDER\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Azeem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\- Azeem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

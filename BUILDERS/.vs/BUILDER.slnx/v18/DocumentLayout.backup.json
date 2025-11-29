@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\azeem\u0027s workflow\\design-principles\\BUILDERS\\",
+  "WorkspaceRootPath": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|c:\\azeem\u0027s workflow\\design-principles\\builders\\builder\\withbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|c:\\azeem\u0027s workspace\\design-principles\\builders\\builder\\stepwise-builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|solutionrelative:builder\\stepwise-builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|c:\\azeem\u0027s workspace\\design-principles\\builders\\builder\\fluent-builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|solutionrelative:builder\\fluent-builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|c:\\azeem\u0027s workspace\\design-principles\\builders\\builder\\withoutbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|solutionrelative:builder\\withoutbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|c:\\azeem\u0027s workspace\\design-principles\\builders\\builder\\withbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A94979-8782-4BC1-B014-0F0633ABA3ED}|BUILDER\\BUILDER.csproj|solutionrelative:builder\\withbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Stepwise-Builder.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\Stepwise-Builder.cs",
+              "RelativeDocumentMoniker": "BUILDER\\Stepwise-Builder.cs",
+              "ToolTip": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\Stepwise-Builder.cs",
+              "RelativeToolTip": "BUILDER\\Stepwise-Builder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv0sAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:16:12.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithoutBuilder.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\WithoutBuilder.cs",
+              "RelativeDocumentMoniker": "BUILDER\\WithoutBuilder.cs",
+              "ToolTip": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\WithoutBuilder.cs",
+              "RelativeToolTip": "BUILDER\\WithoutBuilder.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T14:34:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fluent-Builder.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\Fluent-Builder.cs",
+              "RelativeDocumentMoniker": "BUILDER\\Fluent-Builder.cs",
+              "ToolTip": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\Fluent-Builder.cs",
+              "RelativeToolTip": "BUILDER\\Fluent-Builder.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwDkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T13:15:21.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WithBuilder.cs",
-              "DocumentMoniker": "C:\\azeem\u0027s workflow\\design-principles\\BUILDERS\\BUILDER\\WithBuilder.cs",
+              "DocumentMoniker": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\WithBuilder.cs",
               "RelativeDocumentMoniker": "BUILDER\\WithBuilder.cs",
-              "ToolTip": "C:\\azeem\u0027s workflow\\design-principles\\BUILDERS\\BUILDER\\WithBuilder.cs",
+              "ToolTip": "C:\\azeem\u0027s workspace\\design-principles\\BUILDERS\\BUILDER\\WithBuilder.cs",
               "RelativeToolTip": "BUILDER\\WithBuilder.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T14:09:23.652Z",
               "EditorCaption": ""

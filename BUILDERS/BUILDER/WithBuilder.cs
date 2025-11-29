@@ -70,19 +70,19 @@ namespace BUILDER
 
     public class WithBuilder
     {
-        static void Main(string[] args)
-        {
-            var hello = "hello";
-            var sb = new HtmlBuilder("p");
-            sb.AddChild("p", hello);
-            Console.WriteLine(sb.ToString());
-            var words = new[] { "hello", "world" };
-            var ulb = new HtmlBuilder("ul");
-            foreach (var word in words)
-            {
-                ulb.AddChild("li", word);
-            }
-            Console.WriteLine(ulb.ToString());
-        }
+        //static void Main(string[] args)
+        //{
+        //    var hello = "hello";
+        //    var sb = new HtmlBuilder("p");
+        //    sb.AddChild("p", hello);
+        //    Console.WriteLine(sb.ToString());
+        //    var words = new[] { "hello", "world" };
+        //    var ulb = new HtmlBuilder("ul");
+        //    foreach (var word in words)
+        //    {
+        //        ulb.AddChild("li", word);
+        //    }
+        //    Console.WriteLine(ulb.ToString());
+        //}
     }
 }
